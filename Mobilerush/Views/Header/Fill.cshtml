@@ -1,0 +1,63 @@
+﻿@model Mobilerush.Web.Models.HeaderViewModel
+
+@{
+    ViewBag.Title = "Header";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Start cat.Title Portfolio Section -->
+<div class="project">
+    <div class="container">
+        <!-- Start Top Trending Carousel -->
+        <div class="recent-projects">
+            <h4 class="title"><span>ENTER PHONE (MTN ONLY) BELOW:</span></h4>
+            <div class="projects-carousel touch-carousel">
+
+                @{
+                    <div class="portfolio-item item">
+                        <div class="portfolio-border">
+                            <div class="portfolio-thumb">
+                                <a href="#">
+                                    <div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+                                    <img src="@Url.Content(@Model.header.ImageUrl)">
+                                </a>
+                            </div>
+                            <div class="portfolio-details">
+                                <a href="#">
+                                    <h4>@Model.header.ServiceLabel</h4>
+                                    <span>@Model.header.Description</span>
+                                </a>
+                            </div>
+                            @using (Html.BeginForm("Add", "Header", FormMethod.Post))
+                            {
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                        <label for="Phone">Enter Phone(MTN Only):</label>
+                                        <input id="textPhone" name="textPhone" type="text" class="form-control" value="@Model.MSIDN" />
+                                    </div>
+                                </div>
+                                    <div class="row">
+                                        <div class="col-sm-8">
+                                            @Html.Hidden("headerId", Model.header.HeaderId)
+                                            @Html.Hidden("category", Model.header.Category)
+                                            <button type="submit" id="Submit" class="btn btn-default btn-lg">
+                                                <span class="glyphicon glyphicon-send" aria-hidden="true"></span>
+                                                Subscribe
+                                            </button>
+                                        </div>
+                                    </div>
+                            }
+
+
+                        </div>
+                    </div>
+
+                }
+            </div>
+        </div>
+
+
+        <!-- End Top Trending Carousel -->
+    </div>
+    <!-- .container -->
+</div>

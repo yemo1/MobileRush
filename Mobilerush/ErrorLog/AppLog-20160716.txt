@@ -1,0 +1,48 @@
+7/16/2016 5:41:01 AM ==> Logging from 66.249.65.14................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/16/2016 2:28:22 PM ==> Logging from 105.112.32.149................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/16/2016 3:58:11 PM ==> Logging from 105.112.32.149................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/16/2016 8:27:39 PM ==> Logging from 197.210.225.124................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348032705674
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348032705674
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348032705674
+
+7/16/2016 8:27:39 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+7/16/2016 8:27:39 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+7/16/2016 8:27:39 PM ==> OK
+7/16/2016 8:34:54 PM ==> http://callertunez.mtnonline.com/rbt/cpw?toneCode=1711302&merchantid=&from=wap
+7/16/2016 8:34:54 PM ==> http://callertunez.mtnonline.com/rbt/cpw?toneCode=1711302&merchantid=&from=wap
+7/16/2016 8:34:54 PM ==> OK
+7/16/2016 9:14:23 PM ==> Logging from 197.210.225.119................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348032705674
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348032705674
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348032705674
+
+7/16/2016 9:14:23 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348032705674/001W
+7/16/2016 9:14:29 PM ==> "Your subscription request has been sent"

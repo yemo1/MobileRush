@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ChristmasData.Christmas>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="project">
+    <div class="container">
+        <!-- Start Top Trending Carousel -->
+        <div class="recent-projects">
+            <h4 class="title"><span>Christmas Tunes</span></h4>
+            <div class="projects-carousel touch-carousel">
+
+                @{
+
+                    foreach (var item in Model)
+                    {
+
+                        <div class="portfolio-item item">
+                            <div class="portfolio-border">
+                                <div class="portfolio-thumb">
+                                    <a href="http://mtnrbt.com/?t=@item.Code" target="_blank">
+                                        <div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+                                        <img src="@Url.Content("~/Content/images/christmas/"+@item.ImageUrl)">
+                                    </a>
+                                </div>
+                                <div class="portfolio-details">
+                                    <a href="http://mtnrbt.com/?t=@item.Code" target="_blank">
+                                        <h4>Christmas Tunes</h4>
+                                        <span>@item.Song</span><br/>
+                                        
+                                            <i class="fa fa-shopping-cart"></i>Click to subscribe at &#8358;50/month
+                                        
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                    }
+
+                }
+            </div>
+
+        </div>
+        <!-- End Top Trending Carousel -->
+    </div>
+    <!-- .container -->
+</div>

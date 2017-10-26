@@ -1,0 +1,60 @@
+7/23/2016 1:04:36 AM ==> Logging from 197.211.52.63................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2349050851866
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2349050851866
+Header(X-MSISDN) = 
+Header(MSISDN) = 2349050851866
+
+7/23/2016 1:04:40 AM ==> http://www.mobilerush.com.ng/FMWap/Subs/2349050851866/FUNWEEK
+7/23/2016 1:04:48 AM ==> "Your subscription request has been sent"
+7/23/2016 3:50:05 PM ==> Logging from 66.249.65.159................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/23/2016 5:41:58 PM ==> Logging from 197.210.226.28................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347037091185
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347037091185
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347037091185
+
+7/23/2016 5:42:02 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347037091185/FUNWEEK
+7/23/2016 5:42:10 PM ==> "Your subscription request has been sent"
+7/23/2016 5:58:33 PM ==> Logging from 41.220.68.132................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348109913882
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348109913882
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348109913882
+
+7/23/2016 5:58:34 PM ==> http://10.199.158.210:17000/webapi?Msisdn=2348109913882&PackId=mtnvoicechat1&RequestTimestamp=160723175834&TransactionId=8ae0fb38-fa9d-4c2b-92cc-804fbe9e2d45&AuthKey=websubapi&Mode=WEB
+7/23/2016 5:58:55 PM ==> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.199.158.210:17000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at Mobilerush.Domain.Concrete.ServiceRequestRepository.Subscribe(Int32 headerId, String ipAddress, String msisdn, Boolean IsHeaderEnabled, String sourceChannel) in C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Funmobile\HeaderEnrichment\Mobilerush.Domain\Concrete\ServiceRequestRepository.cs:line 120
+   at Mobilerush.Web.Controllers.HeaderController.Pay(MSISDN msisdn, String category, String headerId) in C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Funmobile\HeaderEnrichment\Mobilerush.Web\Controllers\HeaderController.cs:line 34
+7/23/2016 9:19:03 PM ==> Logging from 66.249.65.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/23/2016 10:34:18 PM ==> Logging from 105.112.28.174................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+

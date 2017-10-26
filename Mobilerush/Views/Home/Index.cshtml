@@ -1,0 +1,147 @@
+﻿@model Mobilerush.Web.Models.HomeViewModel
+
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@*@Html.Hidden("ProductId", line.Product.ProductId)*@
+<!-- Start Top Trending Portfolio Section -->
+<div class="project">
+    <div class="container">
+        <!-- Start Top Trending Carousel -->
+        <div class="recent-projects">
+            <h4 class="title"><span>Top Trending</span></h4>
+            <div class="projects-carousel touch-carousel">
+
+                @{
+
+                    foreach (var item in Model.Trending)
+                    {
+
+                        <div class="portfolio-item item">
+                            <div class="portfolio-border">
+                                @if (item.ServiceLabel == "News Alert" || item.ServiceLabel == "Pop Gossip")
+                                {
+                                    <div class="portfolio-thumb">
+                                        <a href="@Url.Action("Pay","Header",new { action="Pay", category="Home", headerId = item.HeaderId },null)" onclick="return alert('Confirm subscription at &#8358;10/day')">
+                                            <div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+                                            <img src="@Url.Content(@item.ImageUrl)">
+                                        </a>
+                                    </div>
+                                    <div class="portfolio-details">
+                                        <a href="@Url.Action("Pay","Header",new { action="Pay", category="Home", headerId = item.HeaderId },null)" onclick="return alert('Confirm subscription at &#8358;10/day')">
+                                            <h4>@item.ServiceLabel</h4>
+                                            <span>@item.Description</span>
+                                        </a>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <div class="portfolio-thumb">
+                                        <a href="@Url.Action("Pay","Header",new { action="Pay", category="Home", headerId = item.HeaderId },null)" onclick="return alert('Confirm subscription at &#8358;50/week')">
+                                            <div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+                                            <img src="@Url.Content(@item.ImageUrl)">
+                                        </a>
+                                    </div>
+                                    <div class="portfolio-details">
+                                        <a href="@Url.Action("Pay","Header",new { action="Pay", category="Home", headerId = item.HeaderId },null)" onclick="return alert('Confirm subscription at &#8358;50/week')">
+                                            <h4>@item.ServiceLabel</h4>
+                                            <span>@item.Description</span>
+                                        </a>
+                                    </div>
+                                }
+                                
+                            </div>
+                        </div>
+
+                    }
+
+                }
+            </div>
+
+        </div>
+        <!-- End Top Trending Carousel -->
+    </div>
+    <!-- .container -->
+</div>
+<!-- End Top Trending Portfolio Section -->
+<!-- Start Featured Portfolio Section -->
+<div class="project">
+    <div class="container">
+        <!-- Start Featured Carousel -->
+        <div class="recent-projects">
+            <h4 class="title"><span>Featured</span></h4>
+            <div class="projects-carousel touch-carousel">
+
+                @{
+                    foreach (var item in Model.Featured)
+                    {
+
+                        <div class="portfolio-item item">
+                            <div class="portfolio-border">
+                                <div class="portfolio-thumb">
+                                    <a href="@Url.Action("Pay","Header",new { action="Pay", category="Home", headerId = item.HeaderId },null)" onclick="return alert('Confirm subscription at &#8358;50/week')">
+                                        <div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+                                        <img src="@Url.Content(@item.ImageUrl)">
+                                    </a>
+                                </div>
+                                <div class="portfolio-details">
+                                    <a href="@Url.Action("Pay","Header",new { action="Pay", category="Home", headerId = item.HeaderId },null)" onclick="return alert('Confirm subscription at &#8358;50/week')">
+                                        <h4>@item.ServiceLabel</h4>
+                                        <span>@item.Description</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    }
+
+                }
+            </div>
+
+        </div>
+        <!-- End Featured Carousel -->
+    </div>
+    <!-- .container -->
+</div>
+<!-- End Featured Portfolio Section -->
+<!-- Start Recommended Portfolio Section -->
+<div class="project">
+    <div class="container">
+        <!-- Start Recommended Carousel -->
+        <div class="recent-projects">
+            <h4 class="title"><span>Recommended For You</span></h4>
+            <div class="projects-carousel touch-carousel">
+
+                @{
+                    foreach (var item in Model.Recommended)
+                    {
+
+                        <div class="portfolio-item item">
+                            <div class="portfolio-border">
+                                <div class="portfolio-thumb">
+                                    <a href="@Url.Action("Pay","Header",new { action="Pay", category="Home", headerId = item.HeaderId },null)" onclick="return alert('Confirm subscription at &#8358;50/week')">
+                                        <div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+                                        <img src="@Url.Content(@item.ImageUrl)">
+                                    </a>
+                                </div>
+                                <div class="portfolio-details">
+                                    <a href="@Url.Action("Pay","Header",new { action="Pay", category="Home", headerId = item.HeaderId },null)" onclick="return alert('Confirm subscription at &#8358;50/week')">
+                                        <h4>@item.ServiceLabel</h4>
+                                        <span>@item.Description</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                    }
+                }
+            </div>
+
+        </div>
+        <!-- EndRecommended Carousel -->
+    </div>
+    <!-- .container -->
+</div>
+<!-- End Recommended Portfolio Section -->

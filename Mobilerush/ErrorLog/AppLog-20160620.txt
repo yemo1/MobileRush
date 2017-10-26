@@ -1,0 +1,100 @@
+6/20/2016 8:07:23 AM ==> Logging from 41.190.2.35................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/20/2016 8:17:29 AM ==> Logging from 197.210.227.61................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/20/2016 10:05:08 AM ==> Logging from 105.112.6.134................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/20/2016 10:12:57 AM ==> Logging from 66.249.65.24................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/20/2016 10:32:26 AM ==> Logging from 41.220.68.237................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2349031249597
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2349031249597
+Header(X-MSISDN) = 
+Header(MSISDN) = 2349031249597
+
+6/20/2016 10:32:27 AM ==> http://www.mobilerush.com.ng/FMWap/Subs/2349031249597/FUNWEEK
+6/20/2016 10:32:32 AM ==> "Your subscription request has been sent"
+6/20/2016 11:37:55 AM ==> Logging from 197.210.225.81................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348133212483
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348133212483
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348133212483
+
+6/20/2016 11:37:59 AM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348133212483/FUNWEEK
+6/20/2016 11:38:05 AM ==> "Your subscription request has been sent"
+6/20/2016 2:17:06 PM ==> Logging from 41.220.68.230................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347036087430
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347036087430
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347036087430
+
+6/20/2016 2:17:08 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347036087430/FUNWEEK
+6/20/2016 2:17:16 PM ==> "Your subscription request has been sent"
+6/20/2016 3:21:27 PM ==> Logging from 197.210.173.38................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348066383432
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348066383432
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348066383432
+
+6/20/2016 3:21:29 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348066383432/FUNWEEK
+6/20/2016 3:21:35 PM ==> "Your subscription request has been sent"
+6/20/2016 3:44:33 PM ==> Logging from 41.190.2.35................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/20/2016 3:53:10 PM ==> Logging from 41.220.68.248................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348064163296
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348064163296
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348064163296
+
+6/20/2016 3:53:10 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348064163296/FUNWEEK
+6/20/2016 3:53:15 PM ==> "Your subscription request has been sent"
+6/20/2016 6:18:23 PM ==> Logging from 197.210.226.30................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347035276838
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347035276838
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347035276838
+
+6/20/2016 6:18:26 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347035276838/FUNWEEK
+6/20/2016 6:18:33 PM ==> "Your subscription request has been sent"

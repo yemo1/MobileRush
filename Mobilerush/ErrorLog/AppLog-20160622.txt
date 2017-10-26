@@ -1,0 +1,177 @@
+6/22/2016 1:09:23 AM ==> Logging from 66.249.79.239................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 1:11:53 AM ==> Logging from 197.210.224.76................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 3:31:24 AM ==> Logging from 66.249.79.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 4:06:59 AM ==> Logging from 66.249.79.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 4:10:08 AM ==> Logging from 66.249.79.239................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 5:38:30 AM ==> Logging from 66.249.79.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 5:38:32 AM ==> Logging from 66.249.66.155................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 5:56:58 AM ==> Logging from 66.249.79.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 6:05:57 AM ==> Logging from 66.249.79.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 10:52:48 AM ==> Logging from 66.249.79.239................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 11:11:38 AM ==> Logging from 66.249.79.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 11:17:52 AM ==> Logging from 66.249.79.239................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 3:27:45 PM ==> Logging from 66.249.79.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 3:50:40 PM ==> Logging from 65.201.184.11................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 5:11:18 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 5:12:26 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 5:13:47 PM ==> Logging from 41.220.68.233................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347062374146
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347062374146
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347062374146
+
+6/22/2016 5:13:48 PM ==> http://callertunez.mtnonline.com/rbt/cpw?toneCode=1011288&merchantid=&from=wap
+6/22/2016 5:13:48 PM ==> http://callertunez.mtnonline.com/rbt/cpw?toneCode=1011288&merchantid=&from=wap
+6/22/2016 5:13:48 PM ==> OK
+6/22/2016 5:14:21 PM ==> http://callertunez.mtnonline.com/rbt/cpw?toneCode=1011219&merchantid=&from=wap
+6/22/2016 5:14:21 PM ==> http://callertunez.mtnonline.com/rbt/cpw?toneCode=1011219&merchantid=&from=wap
+6/22/2016 5:14:21 PM ==> OK
+6/22/2016 5:14:44 PM ==> Logging from 41.220.68.233................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347062374146
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347062374146
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347062374146
+
+6/22/2016 5:14:44 PM ==> http://callertunez.mtnonline.com/rbt/cpw?toneCode=1011024&merchantid=&from=wap
+6/22/2016 5:14:44 PM ==> http://callertunez.mtnonline.com/rbt/cpw?toneCode=1011024&merchantid=&from=wap
+6/22/2016 5:14:44 PM ==> OK
+6/22/2016 5:17:21 PM ==> Logging from 197.210.16.157................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 5:31:45 PM ==> Logging from 66.249.79.239................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/22/2016 7:15:27 PM ==> Logging from 41.190.2.247................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+

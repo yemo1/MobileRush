@@ -1,0 +1,51 @@
+6/25/2016 2:07:28 PM ==> Logging from 66.249.75.235................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/25/2016 6:36:31 PM ==> Logging from 41.220.68.134................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348034745803
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348034745803
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348034745803
+
+6/25/2016 6:36:32 PM ==> http://10.199.158.210:17000/webapi?Msisdn=2348034745803&PackId=mtnvoicechat1&RequestTimestamp=160625183632&TransactionId=5492c721-eb48-4c27-a715-4bfd432fabca&AuthKey=websubapi&Mode=WEB
+6/25/2016 6:36:53 PM ==> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.199.158.210:17000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at Mobilerush.Domain.Concrete.ServiceRequestRepository.Subscribe(Int32 headerId, String ipAddress, String msisdn, Boolean IsHeaderEnabled, String sourceChannel) in C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Funmobile\HeaderEnrichment\Mobilerush.Domain\Concrete\ServiceRequestRepository.cs:line 120
+   at Mobilerush.Web.Controllers.HeaderController.Pay(MSISDN msisdn, String category, String headerId) in C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Funmobile\HeaderEnrichment\Mobilerush.Web\Controllers\HeaderController.cs:line 34
+6/25/2016 6:59:12 PM ==> Logging from 41.220.68.230................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348034745803
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348034745803
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348034745803
+
+6/25/2016 6:59:12 PM ==> Logging from 41.220.68.230................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348034745803
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348034745803
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348034745803
+
+6/25/2016 6:59:16 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348034745803/FUNWEEK
+6/25/2016 6:59:16 PM ==> System.IO.IOException: The process cannot access the file 'C:\inetpub\wwwroot\HeaderEnrichment\Mobilerush\ErrorLog\AppLog-20160625.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at Mobilerush.Domain.Concrete.ServiceRequestRepository.LogFileWrite(String message) in C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Funmobile\HeaderEnrichment\Mobilerush.Domain\Concrete\ServiceRequestRepository.cs:line 237
+   at Mobilerush.Domain.Concrete.ServiceRequestRepository.ServiceUrlFill(ServiceHeader s, ServiceRequest r) in C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Funmobile\HeaderEnrichment\Mobilerush.Domain\Concrete\ServiceRequestRepository.cs:line 172
+   at Mobilerush.Domain.Concrete.ServiceRequestRepository.Subscribe(Int32 headerId, String ipAddress, String msisdn, Boolean IsHeaderEnabled, String sourceChannel) in C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Funmobile\HeaderEnrichment\Mobilerush.Domain\Concrete\ServiceRequestRepository.cs:line 120
+   at Mobilerush.Web.Controllers.HeaderController.Pay(MSISDN msisdn, String category, String headerId) in C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Funmobile\HeaderEnrichment\Mobilerush.Web\Controllers\HeaderController.cs:line 34
+6/25/2016 6:59:24 PM ==> "Your subscription request has been sent"

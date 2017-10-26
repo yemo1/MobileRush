@@ -1,0 +1,56 @@
+5/2/2017 11:45:16 AM ==> Logging from ::1................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/2/2017 11:45:39 AM ==> Logging from ::1................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/2/2017 11:53:04 AM ==> Logging from ::1................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/2/2017 11:53:20 AM ==> http://10.199.158.210:17000/webapi?Msisdn=2348037389955&PackId=mtnvoicechat1&RequestTimestamp=170502115320&TransactionId=13f70d90-f5f5-4811-a62f-efb1d725f5c2&AuthKey=websubapi&Mode=WEB
+5/2/2017 11:53:41 AM ==> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.199.158.210:17000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at Mobilerush.Domain.Concrete.ServiceRequestRepository.Subscribe(Int32 headerId, String ipAddress, String msisdn, Boolean IsHeaderEnabled, String sourceChannel)
+   at Mobilerush.Web.Controllers.HeaderController.Add(String textPhone, String category, String headerId) in C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Funmobile\HearderEnrichment\Mobilerush\Controllers\HeaderController.cs:line 109
+5/2/2017 3:57:06 PM ==> Logging from ::1................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/2/2017 3:57:25 PM ==> http://10.199.158.210:17000/webapi?Msisdn=2348037389955&PackId=mtnvoicechat1&RequestTimestamp=170502155725&TransactionId=32007f6c-80c3-4fbd-9ee8-1d44a70ec0f8&AuthKey=websubapi&Mode=WEB
+5/2/2017 3:57:46 PM ==> System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.199.158.210:17000
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at Mobilerush.Domain.Concrete.ServiceRequestRepository.Subscribe(Int32 headerId, String ipAddress, String msisdn, Boolean IsHeaderEnabled, String sourceChannel)
+   at Mobilerush.Web.Controllers.HeaderController.Add(String textPhone, String category, String headerId) in C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Funmobile\HearderEnrichment\Mobilerush\Controllers\HeaderController.cs:line 109
+5/2/2017 3:57:56 PM ==> Logging from ::1................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+

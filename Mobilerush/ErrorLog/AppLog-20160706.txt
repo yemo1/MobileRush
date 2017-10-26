@@ -1,0 +1,342 @@
+7/6/2016 12:11:16 AM ==> Logging from 41.190.2.164................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 3:30:16 AM ==> Logging from 180.76.15.142................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 4:03:36 AM ==> Logging from 180.76.15.136................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 4:36:56 AM ==> Logging from 180.76.15.24................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 5:10:16 AM ==> Logging from 180.76.15.159................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 5:43:36 AM ==> Logging from 180.76.15.11................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 6:16:56 AM ==> Logging from 180.76.15.140................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 6:50:16 AM ==> Logging from 180.76.15.16................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 7:23:36 AM ==> Logging from 180.76.15.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 7:56:55 AM ==> Logging from 180.76.15.136................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 8:30:16 AM ==> Logging from 180.76.15.136................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 9:03:36 AM ==> Logging from 180.76.15.151................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 9:36:56 AM ==> Logging from 180.76.15.136................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 10:43:36 AM ==> Logging from 180.76.15.148................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 11:16:56 AM ==> Logging from 180.76.15.14................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 11:50:16 AM ==> Logging from 180.76.15.143................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 12:23:38 PM ==> Logging from 180.76.15.17................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 12:56:56 PM ==> Logging from 180.76.15.150................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 1:30:16 PM ==> Logging from 180.76.15.17................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 1:33:30 PM ==> Logging from 66.249.65.24................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 2:03:36 PM ==> Logging from 180.76.15.161................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 2:36:56 PM ==> Logging from 180.76.15.8................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 3:10:16 PM ==> Logging from 180.76.15.139................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 3:43:36 PM ==> Logging from 180.76.15.25................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 4:16:55 PM ==> Logging from 180.76.15.156................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 4:50:16 PM ==> Logging from 180.76.15.147................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 5:23:36 PM ==> Logging from 180.76.15.25................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 5:56:56 PM ==> Logging from 180.76.15.28................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 6:30:16 PM ==> Logging from 180.76.15.150................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 7:03:36 PM ==> Logging from 180.76.15.156................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 7:36:55 PM ==> Logging from 180.76.15.141................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 8:10:16 PM ==> Logging from 180.76.15.142................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 8:43:36 PM ==> Logging from 180.76.15.144................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 9:04:07 PM ==> Logging from 41.190.2.74................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 9:16:55 PM ==> Logging from 180.76.15.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 9:50:16 PM ==> Logging from 180.76.15.137................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 9:50:59 PM ==> Logging from 197.210.172.54................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348141132702
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348141132702
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348141132702
+
+7/6/2016 9:51:00 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348141132702/FUNWEEK
+7/6/2016 9:51:08 PM ==> "Your subscription request has been sent"
+7/6/2016 9:55:01 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348141132702/001W
+7/6/2016 9:55:02 PM ==> "Your subscription request has been sent"
+7/6/2016 10:23:36 PM ==> Logging from 180.76.15.135................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 10:26:14 PM ==> Logging from 197.210.224.12................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348148778688
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348148778688
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348148778688
+
+7/6/2016 10:26:15 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348148778688/FUNWEEK
+7/6/2016 10:26:20 PM ==> "Your subscription request has been sent"
+7/6/2016 10:56:56 PM ==> Logging from 180.76.15.136................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 11:30:15 PM ==> Logging from 180.76.15.135................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/6/2016 11:51:48 PM ==> Logging from 66.249.75.243................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+

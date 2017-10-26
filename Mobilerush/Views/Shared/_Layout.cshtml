@@ -1,0 +1,275 @@
+﻿@using System.Web.Script.Serialization;
+@using System.Web.Optimization;
+@using System.Data.Entity;
+
+<!doctype html>
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><html lang="en" class="no-js"> <![endif]-->
+<html lang="en">
+<head>
+
+
+    <!-- Favicom -->
+    <link rel="apple-touch-icon" type="image/x-icon" href="@Url.Content("~/Content/images/favicon1.ico")" />
+    <link rel="shortcut icon" type="image/x-icon" href="@Url.Content("~/Content/images/favicon1.ico")" />
+    <!--<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">-->
+    <!-- Basic -->
+    <title>Mobile Rush | @ViewBag.Title</title>
+
+    <!-- Define Charset -->
+    <meta charset="utf-8">
+
+    <!-- Responsive Metatag -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Page Description and Author -->
+    <meta name="description" content="mobilerush, click to pay, mtn subscriptions, content, vas, nigeria, lagos, telecom">
+    <meta name="author" content="Mobilerush">
+    <meta name="google-site-verification" content="QLlSyorVJy-Sed86NhkS5tOMIfgKPUlzrdfXjdPEwgc" />
+
+
+    <meta name="keywords" content="vas services ideas, vas portal, vas companies in nigeria, vas services, vas license, vas services list,
+                vas companies in lagos, vas business,vas holdings, vas helpline, vas happenin song, vas music, vas vidoe, vas movie, vas download, mtn, etisalat, glo, zain, airtell, vas in english
+                vas infrastructure ltd, vas meaning in english, vas revenue, mobile content management system, mobile content providers in nigeria, mobile content management,
+                mobile content marketing, mobile content advertising, mobile content, mobile content apps, mobile content aggregator business model, mobile content acceleration,
+                mobile app content management system, mobile app content management, what is a mobile content provider, mobile content best practices, mobile content business models,
+                mobile content business ideas, mobile content blocker,mobile content delivery, mobile content download sites, mobile content delivery network, music content management system,
+                music content jobs, vas movie, vas mp3, music content provider, movie content provider, vas music provider, vas movie provider, vas in africa, vas in lagos, vas in island, vas at ikoyi,
+                vas in nigeria, meaning of vas, value added service, why vas, vas operator, mobile vas operator, music content, music content aggregator,
+                music content administrator, music content and instruction, where to get content, how to get content, place  to get vas content, place to get mobile vas content,
+                content based music information retrieval, music branded content, music content distribution, music content discovery, mp3 content, mp3 songs, movie contents, crbt,
+                mobile crbt contents, crbt content provider, music ratings for content, gospel music content, music content ideas, music industry content, vas jobs, content provider jobs in lagos,
+                music content manager jobs, mobile games, vas games, subcription services, vas billing, music content knowledge, football news, daily ayat, celeb gist, news alert, mtn fun chat, mtn voice chat,
+                as-sirat, english league update, job, job alerts, international news, breaking news, breaking, arabic word of the day, relationship tips, fx daily, dua qunoot recitation, callertunes,
+                fun vidoes, fun movies, funnt videos, funny movies, love tips, fashion tips, nutrition tips, pop gossips, tech news, crime watch newspaper, newspaper, daily news, business news,
+                learn arabic, learn french, learn spanish, local addage, mobile midwife, child hse, health tips, leo horoscope, scorpio horoscope, virgo horoscope, areis horoscope,
+                hadith-teaching of the prophet, dua-prayer of supplications, english leaque update, spanish leaque update, premier league, area vidoe series, aproko video series,
+                secrets video series, princess comedy skit, unlimited praise edition, download movies, download music, download mp3, downlaod songs, subcribe to music on mobile,
+                movies free download, moviesmobile, movies 2017, movie mobile, funny movies, emmanuel movies, short movies, classical movies, mobile videos, movie box office,
+                grammer by princess, i love you by pricess, nofi by princess, ina ran-haruna ishola, hosanna yoruba-emma, taxi driver-bobby benson,
+                moonlight highlife- victor olaiya, psalm 61, psalm 91, lamentation recitation, oriki iwo, champion love-ft tiwa savage-tosin martins, ekele, adura isegun, movie blogs
+                movie actresses, movie cinema, movie streaming, movie contract, movie rating, movies in lagos, movies in nigeria, movies in africa, yoruba movie, igbo movie, hausa movie,
+                funmobile, mp4, mp3, mpeg" />
+    <!-- Bootstrap CSS  -->
+    @*<link rel="stylesheet" href="@Url.Content("~/Content/bootstrap.min.css")" type="text/css" media="screen" />
+
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="@Url.Content("~/Content/font-awesome.min.css")" type="text/css" media="screen" />
+
+    <!-- Slicknav -->
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/Content/slicknav.css")" media="screen" />
+
+    <!-- Margo CSS Styles  -->
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/Content/style.css")" media="screen" />
+
+    <!-- Responsive CSS Styles  -->
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/Content/responsive.css")" media="screen" />
+
+    <!-- Css3 Transitions Styles  -->
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/Content/animate.css")" media="screen" />*@
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @RenderSection("stylesheets", false)
+
+    <!-- Color CSS Styles  -->
+    <!--<link rel="stylesheet" type="text/css" href="Content/colors/red.css" title="red" media="screen" />
+    <link rel="stylesheet" type="text/css" href="Content/colors/jade.css" title="jade" media="screen" />
+    <link rel="stylesheet" type="text/css" href="Content/colors/blue.css" title="blue" media="screen" />
+    <link rel="stylesheet" type="text/css" href="Content/colors/beige.css" title="beige" media="screen" />
+    <link rel="stylesheet" type="text/css" href="Content/colors/cyan.css" title="cyan" media="screen" />
+    <link rel="stylesheet" type="text/css" href="Content/colors/green.css" title="green" media="screen" />-->
+    @*<link rel="stylesheet" type="text/css" href="@Url.Content("~/Content/colors/orange.css")" title="orange" media="screen" />*@
+    <!--<link rel="stylesheet" type="text/css" href="Content/colors/peach.css" title="peach" media="screen" />
+      <link rel="stylesheet" type="text/css" href="Content/colors/pink.css" title="pink" media="screen" />
+      <link rel="stylesheet" type="text/css" href="Content/colors/purple.css" title="purple" media="screen" />
+      <link rel="stylesheet" type="text/css" href="Content/colors/sky-blue.css" title="sky-blue" media="screen" />
+      <link rel="stylesheet" type="text/css" href="Content/colors/yellow.css" title="yellow" media="screen" />-->
+    <!-- Margo JS  -->
+    @*<script type="text/javascript" src="@Url.Content("~/Scripts/jquery-2.1.4.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.migrate.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/modernizrr.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/bootstrap.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.fitvids.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/owl.carousel.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/nivo-lightbox.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.isotope.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.appear.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/count-to.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.textillate.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.lettering.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.easypiechart.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.nicescroll.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.parallax.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/jquery.slicknav.js")"></script>*@
+    <script type="text/javascript">
+        function ShowPop(url) {
+            //alert(url);
+            url = escape(unescape(url.replace(/&quot;/g, '"')).replace(/['"]/g, ""));
+            //alert(url);
+            if (url != null) window.location.href=decodeURIComponent(url);              // The function returns the product of p1 and p2 --return window.open
+            //return false;
+        }
+        $(document).ready(function(){
+            $('a').attr('href', '/BreakingNews?category=BreakingNews').addClass('hidden');
+        })
+    </script>
+
+    <!--[if IE 8]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+</head>
+
+<body >
+    <!-- Full Body Container -->
+    <div id="container">
+        <!-- Start Header Section -->
+        <div class="hidden-header"></div>
+        <header class="clearfix">
+
+            <!-- Start Top Bar -->
+            <div class="top-bar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <!-- Start Contact Info -->
+                            <ul class="contact-details">
+                                <li>
+                                    <a href="#"><i class="fa fa-map-marker"></i> Nigeria</a>
+                                </li>
+                                <!--<li><a href="#"><i class="fa fa-envelope-o"></i> info@yourcompany.com</a>
+                                </li>-->
+                                @{ var m = (Session["XMSISDN"] != null) ? ((Mobilerush.Domain.Entities.MSISDN)Session["XMSISDN"]).Lines.FirstOrDefault().Phone : "XXX-XXXXXXXX";}
+                                <li>
+                                    <a href="#"><i class="fa fa-phone"></i> +@m</a>
+                                </li>
+                            </ul>
+                            <!-- End Contact Info -->
+                        </div>
+                        <!-- .col-md-6 -->
+                        <div class="col-md-6">
+                            <!-- Start Social Links -->
+                            <ul class="social-list">
+                                <li>
+                                    <a class="facebook itl-tooltip" data-placement="bottom" title="Facebook" href="#"><i class="fa fa-facebook"></i></a>
+                                </li>
+                                <li>
+                                    <a class="twitter itl-tooltip" data-placement="bottom" title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
+                                </li>
+                            </ul>
+                            <!-- End Social Links -->
+                        </div>
+                        <!-- .col-md-6 -->
+                    </div>
+                    <!-- .row -->
+                </div>
+                <!-- .container -->
+            </div>
+            <!-- .top-bar -->
+            <!-- End Top Bar -->
+            <!-- Start  Logo & Naviagtion  -->
+            <div class="navbar navbar-default navbar-top">
+                <div class="container">
+                    <div class="navbar-header">
+                        <!-- Stat Toggle Nav Link For Mobiles -->
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <!-- End Toggle Nav Link For Mobiles -->
+                        <a class="navbar-brand" href="@Url.Action("Index","Home")">
+                            <img alt="" src=""><img src="@Url.Content("~/Content/images/Mobile-Rush-LogoForSite-SMALLER.fw.png")" />
+                        </a>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <!-- Start Navigation List -->
+                        <ul class="nav navbar-nav navbar-right">
+
+                            @Html.Action("Menu", "Nav")
+                        </ul>
+                        <!-- End Navigation List -->
+                    </div>
+                </div>
+
+                <!-- Mobile Menu Start -->
+                <ul class="wpb-mobile-menu">
+                    @Html.Action("Menu", "Nav")
+                </ul>
+                <!-- Mobile Menu End -->
+
+            </div>
+            <!-- End Header Logo & Naviagtion -->
+
+        </header>
+        <!-- End Header Section -->
+        @RenderBody()
+        <!-- Divider -->
+        <div class="hr1 margin-60"></div>
+        <!-- Divider -->
+        <div class="hr1 margin-60"></div>
+
+        <!-- Start Footer -->
+        <footer class="footer">
+            <div class="container">
+                <div class="row footer-widgets">
+                    <!-- Start Copyright -->
+                    <div class="copyright-section">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p>&copy; 2016 Mobile Rush - All Rights Reserved <a href="http://funmobilelive.com/">FunMobile</a> </p>
+                            </div>
+                            <div class="col-md-6">
+                                <ul class="footer-nav">
+                                    <li><a href="@Url.Action("Index","Callertune")">Callertunez</a></li>
+                                    <li><a href="@Url.Action("Index","News")">Breaking News</a></li>
+                                    <li><a href="#">Contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Copyright -->
+
+                </div>
+                <!-- row footer-widgets-->
+            </div>
+            <!-- End Container -->
+        </footer>
+        <!-- End Footer -->
+
+    </div>
+    <!-- End Container -->
+    <!-- End Container -->
+    <!-- Go To Top Link -->
+    <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+
+   
+    @{
+        if (HttpContext.Current.Session["Param3"] != null)
+        {
+            var scr = new JavaScriptSerializer();
+            var url = scr.Serialize(HttpContext.Current.Session["Param3"].ToString());
+            <script type="text/javascript">ShowPop('@url')</script>
+            HttpContext.Current.Session["Param3"] = null;
+        }
+    }
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/custom")
+    @RenderSection("scripts", required: false)
+
+</body>
+
+</html>

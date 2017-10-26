@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Mobilerush.Web.Models.MenuViewModel>
+<li>
+    @Html.ActionLink("Home", "Index", new { controller = "Home", action = "Index" }, new { @class = ("Home" == ViewBag.SelectedCategory ? " active" : "") })
+</li>
+@foreach (var menu in Model)
+{
+    <li>
+        @Html.RouteLink(menu.Title, new { controller = menu.Name, action = "Index", category = menu.Name }, new { @class = (menu.Name == ViewBag.SelectedCategory ? " active" : "") })
+
+        @if (menu.MenuItems.Count() > 1)
+        {
+            <ul class="dropdown">
+                @foreach (var item in menu.MenuItems)
+                    {
+                    <li>
+                        @Html.RouteLink(item.Title, new { controller = menu.Name, action = "Load", category = menu.Name, map = item.Map }, new { @class = (menu.Name == ViewBag.SelectedCategory ? " active" : "") })
+                        @*@Html.RouteLink(item.Title, new { controller = menu.Name, action = "Index", category = menu.Name, map = item.Map })*@
+                    </li>
+                }
+            </ul>
+        }
+    </li>
+}
+

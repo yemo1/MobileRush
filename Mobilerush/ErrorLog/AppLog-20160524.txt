@@ -1,0 +1,643 @@
+5/24/2016 11:25:16 AM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 11:25:16 AM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 11:25:16 AM ==> OK
+5/24/2016 11:25:16 AM ==> Description: OK
+5/24/2016 11:25:16 AM ==> StatusCode: OK
+5/24/2016 11:25:50 AM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 11:25:58 AM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 11:25:58 AM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 11:25:58 AM ==> OK
+5/24/2016 11:25:58 AM ==> Description: OK
+5/24/2016 11:25:58 AM ==> StatusCode: OK
+5/24/2016 11:26:44 AM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 11:26:44 AM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 11:26:44 AM ==> OK
+5/24/2016 11:26:44 AM ==> Description: OK
+5/24/2016 11:26:44 AM ==> StatusCode: OK
+5/24/2016 11:28:28 AM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032234290/J18W
+5/24/2016 11:28:35 AM ==> "Your subscription request has been sent"
+5/24/2016 11:28:35 AM ==> Description: "Your subscription request has been sent"
+5/24/2016 11:28:35 AM ==> StatusCode: "Your subscription request has been sent"
+5/24/2016 11:30:22 AM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 11:30:22 AM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 11:30:22 AM ==> OK
+5/24/2016 11:30:22 AM ==> Description: OK
+5/24/2016 11:30:22 AM ==> StatusCode: OK
+5/24/2016 11:32:47 AM ==> Logging from 41.220.68.224................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347032234290
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347032234290
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347032234290
+
+5/24/2016 11:32:47 AM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 11:32:47 AM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 11:32:47 AM ==> OK
+5/24/2016 11:32:47 AM ==> Description: OK
+5/24/2016 11:32:47 AM ==> StatusCode: OK
+5/24/2016 11:55:25 AM ==> Logging from 66.249.66.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 11:58:01 AM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 11:58:08 AM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 11:58:08 AM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 11:58:08 AM ==> OK
+5/24/2016 11:58:08 AM ==> Description: OK
+5/24/2016 11:58:08 AM ==> StatusCode: OK
+5/24/2016 12:03:13 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 12:03:20 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:03:20 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:03:20 PM ==> OK
+5/24/2016 12:03:20 PM ==> Description: OK
+5/24/2016 12:03:20 PM ==> StatusCode: OK
+5/24/2016 12:03:58 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 12:04:04 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:04:04 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:04:04 PM ==> OK
+5/24/2016 12:04:04 PM ==> Description: OK
+5/24/2016 12:04:04 PM ==> StatusCode: OK
+5/24/2016 12:09:46 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 12:09:53 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:09:53 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:09:53 PM ==> OK
+5/24/2016 12:09:53 PM ==> Description: OK
+5/24/2016 12:09:53 PM ==> StatusCode: OK
+5/24/2016 12:15:15 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 12:15:22 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:15:22 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:15:22 PM ==> OK
+5/24/2016 12:15:22 PM ==> Description: OK
+5/24/2016 12:15:22 PM ==> StatusCode: OK
+5/24/2016 12:17:20 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 12:17:28 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:17:28 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:17:28 PM ==> OK
+5/24/2016 12:17:28 PM ==> Description: OK
+5/24/2016 12:17:28 PM ==> StatusCode: OK
+5/24/2016 12:23:15 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 12:23:21 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:23:21 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:23:21 PM ==> OK
+5/24/2016 12:23:21 PM ==> Description: OK
+5/24/2016 12:23:21 PM ==> StatusCode: OK
+5/24/2016 12:27:33 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 12:27:39 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:27:39 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:27:39 PM ==> OK
+5/24/2016 12:27:39 PM ==> Description: OK
+5/24/2016 12:27:39 PM ==> StatusCode: OK
+5/24/2016 12:30:49 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 12:30:53 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:30:53 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:30:53 PM ==> OK
+5/24/2016 12:30:53 PM ==> Description: OK
+5/24/2016 12:30:53 PM ==> StatusCode: OK
+5/24/2016 12:31:55 PM ==> Logging from 197.210.172.14................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348030643007
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348030643007
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348030643007
+
+5/24/2016 12:31:55 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:31:55 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:31:55 PM ==> OK
+5/24/2016 12:31:55 PM ==> Description: OK
+5/24/2016 12:31:55 PM ==> StatusCode: OK
+5/24/2016 12:42:19 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 12:42:25 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:42:25 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:42:25 PM ==> OK
+5/24/2016 12:42:25 PM ==> Description: OK
+5/24/2016 12:42:25 PM ==> StatusCode: OK
+5/24/2016 12:43:58 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 12:44:01 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:44:01 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:44:01 PM ==> OK
+5/24/2016 12:44:01 PM ==> Description: OK
+5/24/2016 12:44:01 PM ==> StatusCode: OK
+5/24/2016 12:47:45 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 12:47:50 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:47:50 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 12:47:50 PM ==> OK
+5/24/2016 12:47:50 PM ==> Description: OK
+5/24/2016 12:47:50 PM ==> StatusCode: OK
+5/24/2016 1:05:04 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 1:05:10 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:05:10 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:05:10 PM ==> OK
+5/24/2016 1:05:10 PM ==> Description: OK
+5/24/2016 1:05:10 PM ==> StatusCode: OK
+5/24/2016 1:08:01 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 1:08:07 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:08:07 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:08:07 PM ==> OK
+5/24/2016 1:08:07 PM ==> Description: OK
+5/24/2016 1:08:07 PM ==> StatusCode: OK
+5/24/2016 1:09:35 PM ==> Logging from 66.249.66.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 1:10:04 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 1:10:11 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:10:11 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:10:11 PM ==> OK
+5/24/2016 1:10:11 PM ==> Description: OK
+5/24/2016 1:10:11 PM ==> StatusCode: OK
+5/24/2016 1:18:39 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 1:18:43 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:18:43 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:18:43 PM ==> OK
+5/24/2016 1:18:43 PM ==> Description: OK
+5/24/2016 1:18:43 PM ==> StatusCode: OK
+5/24/2016 1:19:59 PM ==> Logging from 197.210.172.15................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348030643007
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348030643007
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348030643007
+
+5/24/2016 1:19:59 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:19:59 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:19:59 PM ==> OK
+5/24/2016 1:19:59 PM ==> Description: OK
+5/24/2016 1:19:59 PM ==> StatusCode: OK
+5/24/2016 1:20:39 PM ==> Logging from 197.210.172.15................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348030643007
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348030643007
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348030643007
+
+5/24/2016 1:25:29 PM ==> Logging from 41.220.68.136................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347032234290
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347032234290
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347032234290
+
+5/24/2016 1:25:29 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:25:29 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:25:29 PM ==> OK
+5/24/2016 1:25:29 PM ==> Description: OK
+5/24/2016 1:25:29 PM ==> StatusCode: OK
+5/24/2016 1:25:53 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:25:53 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:25:53 PM ==> OK
+5/24/2016 1:25:53 PM ==> Description: OK
+5/24/2016 1:25:53 PM ==> StatusCode: OK
+5/24/2016 1:26:42 PM ==> Logging from 41.220.68.136................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347032234290
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347032234290
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347032234290
+
+5/24/2016 1:26:42 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:26:42 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:26:42 PM ==> OK
+5/24/2016 1:26:42 PM ==> Description: OK
+5/24/2016 1:26:42 PM ==> StatusCode: OK
+5/24/2016 1:28:04 PM ==> Logging from 41.220.68.136................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348168423222
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348168423222
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348168423222
+
+5/24/2016 1:28:04 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:28:04 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:28:04 PM ==> OK
+5/24/2016 1:28:04 PM ==> Description: OK
+5/24/2016 1:28:04 PM ==> StatusCode: OK
+5/24/2016 1:28:15 PM ==> Logging from 66.249.66.155................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 1:28:51 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:28:51 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:28:51 PM ==> OK
+5/24/2016 1:28:51 PM ==> Description: OK
+5/24/2016 1:28:51 PM ==> StatusCode: OK
+5/24/2016 1:29:27 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:29:27 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:29:27 PM ==> OK
+5/24/2016 1:29:27 PM ==> Description: OK
+5/24/2016 1:29:27 PM ==> StatusCode: OK
+5/24/2016 1:34:52 PM ==> Logging from 105.112.32.194................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 1:36:58 PM ==> Logging from 41.190.3.179................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 1:37:12 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:37:12 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:37:12 PM ==> OK
+5/24/2016 1:37:12 PM ==> Description: OK
+5/24/2016 1:37:12 PM ==> StatusCode: OK
+5/24/2016 1:38:00 PM ==> Logging from 41.190.3.179................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 1:38:23 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:38:23 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+5/24/2016 1:38:23 PM ==> OK
+5/24/2016 1:38:23 PM ==> Description: OK
+5/24/2016 1:38:23 PM ==> StatusCode: OK
+5/24/2016 1:49:56 PM ==> Logging from 66.249.66.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 2:14:19 PM ==> Logging from 66.249.66.159................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 3:33:37 PM ==> Logging from 66.249.66.155................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 3:44:18 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 3:44:23 PM ==> http://www.mobilerush.com.ng/MNSWap/Index.aspx?phone=2348168423222&pID=23401220000010380&tID=28e766f3-b93b-4e74-97f8-94bca1d87e51&ds=Islamic Lifestyle Mobile Magazine Featuring Daily Prayers, Hadith & Quran Quote  (50/Week)
+5/24/2016 3:44:25 PM ==> 10000004
+5/24/2016 3:44:25 PM ==> Description: 10000004
+5/24/2016 3:44:25 PM ==> StatusCode: 10000004
+5/24/2016 4:30:32 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 4:30:39 PM ==> http://www.mobilerush.com.ng/MNSWap/Index.aspx?phone=2348168423222&pID=23401220000010380&tID=086df922-870a-4393-b8b2-a056b30b417d&ds=Islamic Lifestyle Mobile Magazine Featuring Daily Prayers, Hadith & Quran Quote  (50/Week)
+5/24/2016 4:30:40 PM ==> 10000004
+5/24/2016 4:30:40 PM ==> Description: 10000004
+5/24/2016 4:30:40 PM ==> StatusCode: 10000004
+5/24/2016 4:31:08 PM ==> Logging from 41.220.68.248................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348168423222
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348168423222
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348168423222
+
+5/24/2016 4:31:08 PM ==> http://www.mobilerush.com.ng/MNSWap/Index.aspx?phone=2348168423222&pID=23401220000010380&tID=8c128f59-f3c7-4cdd-8550-aa5707f4d6b6&ds=Islamic Lifestyle Mobile Magazine Featuring Daily Prayers, Hadith & Quran Quote  (50/Week)
+5/24/2016 4:31:09 PM ==> 10000004
+5/24/2016 4:31:09 PM ==> Description: 10000004
+5/24/2016 4:31:09 PM ==> StatusCode: 10000004
+5/24/2016 5:35:47 PM ==> Logging from 66.249.66.155................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 5:38:45 PM ==> Logging from 66.249.66.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 5:44:55 PM ==> Logging from 66.249.66.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 6:03:46 PM ==> Logging from 66.249.66.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 6:31:35 PM ==> Logging from 66.249.66.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 6:34:45 PM ==> Logging from 66.249.66.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 6:37:45 PM ==> Logging from 66.249.66.159................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 6:50:05 PM ==> Logging from 66.249.66.155................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 7:11:46 PM ==> Logging from 66.249.66.155................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 7:14:44 PM ==> Logging from 66.249.66.155................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 7:27:06 PM ==> Logging from 66.249.66.159................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 7:30:14 PM ==> Logging from 66.249.66.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 7:33:16 PM ==> Logging from 66.249.66.159................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 7:39:45 PM ==> Logging from 66.249.66.155................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 7:54:46 PM ==> Logging from 66.249.66.159................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 8:13:05 PM ==> Logging from 66.249.66.159................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 8:56:15 PM ==> Logging from 66.249.66.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 9:14:44 PM ==> Logging from 66.249.66.159................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 9:21:05 PM ==> Logging from 66.249.66.159................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 10:14:06 PM ==> Logging from 66.249.66.159................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 10:35:25 PM ==> Logging from 66.249.66.155................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 10:47:34 PM ==> Logging from 66.249.66.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+5/24/2016 10:59:54 PM ==> Logging from 66.249.66.159................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+

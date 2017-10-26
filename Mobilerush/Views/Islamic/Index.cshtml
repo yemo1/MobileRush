@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Mobilerush.Web.Models.PageSectionViewModel>
+
+@{
+    ViewBag.Title = "Islamic";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@foreach (var cat in Model)
+{
+        <!-- Start cat.Title Portfolio Section -->
+    <div class="project">
+        <div class="container">
+            <!-- Start Top Trending Carousel -->
+            <div class="recent-projects">
+                <h4 class="title"><span id="@cat.Title.ToLower()">@cat.Title</span></h4>
+                <div class="projects-carousel touch-carousel">
+
+                    @{
+                        foreach (var item in cat.Items)
+                        {
+
+                            <div class="portfolio-item item">
+                                <div class="portfolio-border">
+                                    <div class="portfolio-thumb">
+                                        <a href="@Url.Action("Pay","Header",new { action="Pay", category="Islamic", headerId = item.HeaderId },null)" onclick="return alert('Confirm subscription at &#8358;50/week')">
+                                            <div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+                                            <img src="@Url.Content(@item.ImageUrl)">
+                                        </a>
+                                    </div>
+                                    <div class="portfolio-details">
+                                        <a href="@Url.Action("Pay","Header",new { action="Pay", category="Islamic", headerId = item.HeaderId },null)" onclick="return alert('Confirm subscription at &#8358;50/week')">
+                                            <h4>@item.ServiceLabel</h4>
+                                            <span>@item.Description</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        }
+                    }
+                </div>
+
+            </div>
+            <!-- End Top Trending Carousel -->
+        </div>
+        <!-- .container -->
+    </div>
+
+                        }
+

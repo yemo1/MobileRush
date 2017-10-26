@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:tns3="http://pojo.service.soap.mns.huawei.com" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:intf="http://service.soap.mns.huawei.com" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns1="http://request.service.soap.mns.huawei.com" xmlns:tns2="http://response.service.soap.mns.huawei.com" xmlns:impl="http://service.soap.mns.huawei.com" targetNamespace="http://service.soap.mns.huawei.com" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://request.service.soap.mns.huawei.com">
+      <xsd:import namespace="http://pojo.service.soap.mns.huawei.com" />
+      <xsd:import namespace="http://response.service.soap.mns.huawei.com" />
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:complexType name="ProductSubscribeReq">
+        <xsd:sequence>
+          <xsd:element name="MSISDN" nillable="true" type="xsd:string" />
+          <xsd:element name="channelID" nillable="true" type="xsd:int" />
+          <xsd:element name="operDesc" nillable="true" type="xsd:string" />
+          <xsd:element name="operTime" nillable="true" type="xsd:string" />
+          <xsd:element name="productID" nillable="true" type="xsd:string" />
+          <xsd:element name="transactionID" nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ProductUnSubscribeReq">
+        <xsd:sequence>
+          <xsd:element name="MSISDN" nillable="true" type="xsd:string" />
+          <xsd:element name="channelID" nillable="true" type="xsd:int" />
+          <xsd:element name="operDesc" nillable="true" type="xsd:string" />
+          <xsd:element name="operTime" nillable="true" type="xsd:string" />
+          <xsd:element name="productID" nillable="true" type="xsd:string" />
+          <xsd:element name="transactionID" nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://pojo.service.soap.mns.huawei.com">
+      <xsd:import namespace="http://response.service.soap.mns.huawei.com" />
+      <xsd:import namespace="http://request.service.soap.mns.huawei.com" />
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:complexType name="Result">
+        <xsd:sequence>
+          <xsd:element name="resultCode" nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+    <xsd:schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://response.service.soap.mns.huawei.com">
+      <xsd:import namespace="http://pojo.service.soap.mns.huawei.com" />
+      <xsd:import namespace="http://request.service.soap.mns.huawei.com" />
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:complexType name="SubscribeMNSProductRsp">
+        <xsd:sequence>
+          <xsd:element name="result" nillable="true" type="tns3:Result" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="UnsubscribeMNSProductRsp">
+        <xsd:sequence>
+          <xsd:element name="result" nillable="true" type="tns3:Result" />
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="subscribeMNSProductResponse">
+    <wsdl:part name="subscribeMNSProductReturn" type="tns2:SubscribeMNSProductRsp" />
+  </wsdl:message>
+  <wsdl:message name="subscribeMNSProductRequest">
+    <wsdl:part name="in0" type="tns1:ProductSubscribeReq" />
+  </wsdl:message>
+  <wsdl:message name="unsubscribeMNSProductRequest">
+    <wsdl:part name="in0" type="tns1:ProductUnSubscribeReq" />
+  </wsdl:message>
+  <wsdl:message name="unsubscribeMNSProductResponse">
+    <wsdl:part name="unsubscribeMNSProductReturn" type="tns2:UnsubscribeMNSProductRsp" />
+  </wsdl:message>
+  <wsdl:portType name="MNSProductReq">
+    <wsdl:operation name="subscribeMNSProduct" parameterOrder="in0">
+      <wsdl:input name="subscribeMNSProductRequest" message="impl:subscribeMNSProductRequest" />
+      <wsdl:output name="subscribeMNSProductResponse" message="impl:subscribeMNSProductResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="unsubscribeMNSProduct" parameterOrder="in0">
+      <wsdl:input name="unsubscribeMNSProductRequest" message="impl:unsubscribeMNSProductRequest" />
+      <wsdl:output name="unsubscribeMNSProductResponse" message="impl:unsubscribeMNSProductResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="MNSProductReqSoapBinding" type="impl:MNSProductReq">
+    <wsdlsoap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="subscribeMNSProduct">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="subscribeMNSProductRequest">
+        <wsdlsoap:body use="encoded" namespace="http://service.soap.mns.huawei.com" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="subscribeMNSProductResponse">
+        <wsdlsoap:body use="encoded" namespace="http://service.soap.mns.huawei.com" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="unsubscribeMNSProduct">
+      <wsdlsoap:operation soapAction="" />
+      <wsdl:input name="unsubscribeMNSProductRequest">
+        <wsdlsoap:body use="encoded" namespace="http://service.soap.mns.huawei.com" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output name="unsubscribeMNSProductResponse">
+        <wsdlsoap:body use="encoded" namespace="http://service.soap.mns.huawei.com" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MNSProductReqService">
+    <wsdl:port name="MNSProductReq" binding="impl:MNSProductReqSoapBinding">
+      <wsdlsoap:address location="http://197.210.219.238:15400/services/MNSProductReq" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

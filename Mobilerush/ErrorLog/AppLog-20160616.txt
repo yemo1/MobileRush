@@ -1,0 +1,141 @@
+6/16/2016 7:19:44 AM ==> Logging from 66.249.64.199................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/16/2016 9:40:31 AM ==> Logging from 41.220.68.228................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347062374146
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347062374146
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347062374146
+
+6/16/2016 9:40:31 AM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347062374146/736W
+6/16/2016 9:40:37 AM ==> "Your subscription request has been sent"
+6/16/2016 10:38:09 AM ==> Logging from 197.210.172.77................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347033872670
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347033872670
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347033872670
+
+6/16/2016 10:38:12 AM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347033872670/FUNWEEK
+6/16/2016 10:38:19 AM ==> "Your subscription request has been sent"
+6/16/2016 1:54:15 PM ==> Logging from 197.210.224.71................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/16/2016 1:54:26 PM ==> Logging from 197.210.224.71................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/16/2016 4:52:23 PM ==> Logging from 66.249.66.155................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/16/2016 6:11:42 PM ==> Logging from 197.210.226.37................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/16/2016 6:31:06 PM ==> Logging from 197.210.173.44................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348134607108
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348134607108
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348134607108
+
+6/16/2016 6:31:14 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348134607108/FUNWEEK
+6/16/2016 6:31:32 PM ==> "Your subscription request has been sent"
+6/16/2016 6:46:23 PM ==> Logging from 66.249.66.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/16/2016 7:34:53 PM ==> Logging from 197.210.172.93................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348066171383
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348066171383
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348066171383
+
+6/16/2016 7:34:56 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348066171383/FUNWEEK
+6/16/2016 7:35:02 PM ==> "Your subscription request has been sent"
+6/16/2016 7:48:13 PM ==> Logging from 66.249.66.159................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/16/2016 8:24:33 PM ==> Logging from 66.175.219.130................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/16/2016 9:54:48 PM ==> Logging from 197.210.227.80................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348164204241
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348164204241
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348164204241
+
+6/16/2016 9:54:52 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348164204241/FUNWEEK
+6/16/2016 9:54:57 PM ==> "Your subscription request has been sent"
+6/16/2016 11:07:43 PM ==> Logging from 66.249.66.163................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/16/2016 11:45:28 PM ==> Logging from 41.58.48.62................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/16/2016 11:46:05 PM ==> Logging from 197.210.227.22................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348033232022
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348033232022
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348033232022
+
+6/16/2016 11:46:05 PM ==> http://callertunez.mtnonline.com/rbt/cpw?toneCode=1011024&merchantid=&from=wap
+6/16/2016 11:46:05 PM ==> http://callertunez.mtnonline.com/rbt/cpw?toneCode=1011024&merchantid=&from=wap
+6/16/2016 11:46:05 PM ==> OK

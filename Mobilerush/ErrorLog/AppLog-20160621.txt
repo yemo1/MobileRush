@@ -1,0 +1,222 @@
+6/21/2016 8:12:38 AM ==> Logging from 105.112.41.204................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 10:05:33 AM ==> Logging from 31.13.102.101................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 11:30:17 AM ==> Logging from 66.249.79.131................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 11:40:16 AM ==> Logging from 197.210.224.8................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348035960781
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348035960781
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348035960781
+
+6/21/2016 11:40:17 AM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348035960781/FUNWEEK
+6/21/2016 11:40:23 AM ==> "Your subscription request has been sent"
+6/21/2016 12:08:46 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 12:40:13 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 12:44:38 PM ==> Logging from 41.220.68.228................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348039226041
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348039226041
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348039226041
+
+6/21/2016 12:44:38 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348039226041/FUNWEEK
+6/21/2016 12:44:41 PM ==> Logging from 41.220.68.228................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348039226041
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348039226041
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348039226041
+
+6/21/2016 12:44:41 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348039226041/FUNWEEK
+6/21/2016 12:44:45 PM ==> "Your subscription request has been sent"
+6/21/2016 12:44:45 PM ==> "Your subscription request has been sent"
+6/21/2016 1:44:23 PM ==> Logging from 197.210.225.40................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348038359302
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348038359302
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348038359302
+
+6/21/2016 1:44:27 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348038359302/FUNWEEK
+6/21/2016 1:44:33 PM ==> "Your subscription request has been sent"
+6/21/2016 2:44:18 PM ==> Logging from 66.249.79.131................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 3:51:38 PM ==> Logging from 66.249.79.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 4:32:17 PM ==> Logging from 66.249.79.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 4:35:26 PM ==> Logging from 66.249.79.239................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 4:43:29 PM ==> Logging from 197.210.226.95................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 4:50:37 PM ==> Logging from 66.249.79.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 4:56:47 PM ==> Logging from 66.249.79.239................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 4:58:51 PM ==> Logging from 197.211.53.41................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348073302820
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348073302820
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348073302820
+
+6/21/2016 4:58:51 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348073302820/FUNWEEK
+6/21/2016 4:58:58 PM ==> "Your subscription request has been sent"
+6/21/2016 5:06:16 PM ==> Logging from 66.249.79.131................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 5:18:26 PM ==> Logging from 66.249.79.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 6:29:36 PM ==> Logging from 197.210.224.13................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347031139433
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347031139433
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347031139433
+
+6/21/2016 6:29:40 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347031139433/FUNWEEK
+6/21/2016 6:29:46 PM ==> "Your subscription request has been sent"
+6/21/2016 6:38:12 PM ==> Logging from 66.249.79.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 7:09:01 PM ==> Logging from 66.249.79.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 8:38:58 PM ==> Logging from 66.249.79.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 8:44:51 PM ==> Logging from 66.249.79.131................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 9:05:51 PM ==> Logging from 197.210.172.113................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/21/2016 9:14:31 PM ==> Logging from 41.220.68.225................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348068378917
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348068378917
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348068378917
+
+6/21/2016 9:14:31 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348068378917/FUNWEEK
+6/21/2016 9:14:36 PM ==> "Your subscription request has been sent"

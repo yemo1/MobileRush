@@ -1,0 +1,92 @@
+7/26/2016 12:50:33 AM ==> Logging from 180.76.15.148................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/26/2016 8:08:57 AM ==> Logging from 66.249.79.176................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/26/2016 9:37:23 AM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/26/2016 12:53:21 PM ==> Logging from 197.210.172.37................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348032705674
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348032705674
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348032705674
+
+7/26/2016 12:53:24 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348032705674/736W
+7/26/2016 12:53:36 PM ==> "Your subscription request has been sent"
+7/26/2016 1:22:02 PM ==> Logging from 41.206.1.15................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/26/2016 1:23:44 PM ==> Logging from 154.120.96.81................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/26/2016 1:27:05 PM ==> Logging from 54.244.49.200................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/26/2016 5:22:34 PM ==> Logging from 197.210.226.249................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348033790263
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348033790263
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348033790263
+
+7/26/2016 5:22:38 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348033790263/FUNWEEK
+7/26/2016 5:22:47 PM ==> "Your subscription request has been sent"
+7/26/2016 8:00:16 PM ==> Logging from 66.249.79.179................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/26/2016 8:30:25 PM ==> Logging from 180.76.15.23................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/26/2016 9:50:31 PM ==> Logging from 66.249.79.176................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+

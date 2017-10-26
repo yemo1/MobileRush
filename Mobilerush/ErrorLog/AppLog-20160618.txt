@@ -1,0 +1,141 @@
+6/18/2016 12:49:19 AM ==> Logging from 41.190.2.57................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/18/2016 7:14:11 AM ==> Logging from 197.210.224.11................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347065262335
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347065262335
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347065262335
+
+6/18/2016 7:14:14 AM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347065262335/FUNWEEK
+6/18/2016 7:14:21 AM ==> "Your subscription request has been sent"
+6/18/2016 9:14:28 AM ==> Logging from 66.249.65.28................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/18/2016 10:13:12 AM ==> Logging from 41.220.68.227................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348065916626
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348065916626
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348065916626
+
+6/18/2016 10:13:16 AM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348065916626/FUNWEEK
+6/18/2016 10:13:21 AM ==> "Your subscription request has been sent"
+6/18/2016 12:47:27 PM ==> Logging from 197.210.226.68................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348033017618
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348033017618
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348033017618
+
+6/18/2016 12:47:30 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348033017618/FUNWEEK
+6/18/2016 12:47:38 PM ==> "Your subscription request has been sent"
+6/18/2016 1:41:45 PM ==> Logging from 93.186.31.97................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/18/2016 4:01:23 PM ==> Logging from 197.211.53.33................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2349058274935
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2349058274935
+Header(X-MSISDN) = 
+Header(MSISDN) = 2349058274935
+
+6/18/2016 4:01:23 PM ==> Logging from 197.211.53.33................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2349058274935
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2349058274935
+Header(X-MSISDN) = 
+Header(MSISDN) = 2349058274935
+
+6/18/2016 4:01:26 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2349058274935/FUNWEEK
+6/18/2016 4:01:26 PM ==> System.IO.IOException: The process cannot access the file 'C:\inetpub\wwwroot\HeaderEnrichment\Mobilerush\ErrorLog\AppLog-20160618.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at Mobilerush.Domain.Concrete.ServiceRequestRepository.LogFileWrite(String message) in C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Funmobile\HeaderEnrichment\Mobilerush.Domain\Concrete\ServiceRequestRepository.cs:line 237
+   at Mobilerush.Domain.Concrete.ServiceRequestRepository.ServiceUrlFill(ServiceHeader s, ServiceRequest r) in C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Funmobile\HeaderEnrichment\Mobilerush.Domain\Concrete\ServiceRequestRepository.cs:line 172
+   at Mobilerush.Domain.Concrete.ServiceRequestRepository.Subscribe(Int32 headerId, String ipAddress, String msisdn, Boolean IsHeaderEnabled, String sourceChannel) in C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Funmobile\HeaderEnrichment\Mobilerush.Domain\Concrete\ServiceRequestRepository.cs:line 120
+   at Mobilerush.Web.Controllers.HeaderController.Pay(MSISDN msisdn, String category, String headerId) in C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Funmobile\HeaderEnrichment\Mobilerush.Web\Controllers\HeaderController.cs:line 34
+6/18/2016 4:01:31 PM ==> "Your subscription request has been sent"
+6/18/2016 4:34:00 PM ==> Logging from 197.210.226.13................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348030661643
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348030661643
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348030661643
+
+6/18/2016 4:34:02 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348030661643/FUNWEEK
+6/18/2016 4:34:07 PM ==> "Your subscription request has been sent"
+6/18/2016 7:01:29 PM ==> Logging from 41.79.66.117................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/18/2016 7:11:38 PM ==> Logging from 105.112.16.98................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/18/2016 9:26:38 PM ==> Logging from 197.210.172.33................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/18/2016 9:36:17 PM ==> Logging from 41.220.68.135................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348134301436
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348134301436
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348134301436
+
+6/18/2016 9:36:17 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348134301436/FUNWEEK
+6/18/2016 9:36:24 PM ==> "Your subscription request has been sent"
+6/18/2016 10:53:37 PM ==> Logging from 197.211.52.39................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/18/2016 11:22:55 PM ==> Logging from 197.210.225.26................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+

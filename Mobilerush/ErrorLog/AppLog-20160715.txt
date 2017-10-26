@@ -1,0 +1,112 @@
+7/15/2016 9:54:02 AM ==> Logging from 41.190.2.87................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/15/2016 1:57:33 PM ==> Logging from 105.112.33.151................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/15/2016 4:35:10 PM ==> Logging from 41.220.68.9................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348168423222
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348168423222
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348168423222
+
+7/15/2016 4:35:12 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348168423222/042W
+7/15/2016 4:35:20 PM ==> "Your subscription request has been sent"
+7/15/2016 5:03:31 PM ==> Logging from 41.184.160.246................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/15/2016 7:07:12 PM ==> Logging from 197.210.173.84................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347032267237
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347032267237
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347032267237
+
+7/15/2016 7:07:12 PM ==> http://www.mobilerush.com.ng/MNSWap/Index.aspx?phone=2347032267237&pID=23401220000010380&tID=7b0fb6e9-ecfa-44a8-a3a4-29129da78a61&ds=Islamic Lifestyle Mobile Magazine Featuring Daily Prayers, Hadith & Quran Quote  (50/Week)
+7/15/2016 7:07:14 PM ==> 00000000
+7/15/2016 7:21:36 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032267237/612W
+7/15/2016 7:21:39 PM ==> "Your subscription request has been sent"
+7/15/2016 7:21:53 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032267237/612K
+7/15/2016 7:21:54 PM ==> "Your subscription request has been sent"
+7/15/2016 7:22:04 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032267237/612A
+7/15/2016 7:22:05 PM ==> "Your subscription request has been sent"
+7/15/2016 7:22:56 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032267237/612K
+7/15/2016 7:22:58 PM ==> "Your subscription request has been sent"
+7/15/2016 7:24:45 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032267237/612K
+7/15/2016 7:24:46 PM ==> "Your subscription request has been sent"
+7/15/2016 7:28:43 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032267237/612A
+7/15/2016 7:28:44 PM ==> "Your subscription request has been sent"
+7/15/2016 7:29:15 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032267237/612K
+7/15/2016 7:29:16 PM ==> "Your subscription request has been sent"
+7/15/2016 7:29:36 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032267237/612S
+7/15/2016 7:29:37 PM ==> "Your subscription request has been sent"
+7/15/2016 7:29:54 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032267237/612W
+7/15/2016 7:29:54 PM ==> "Your subscription request has been sent"
+7/15/2016 7:55:27 PM ==> Logging from 197.210.173.79................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347032267237
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347032267237
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347032267237
+
+7/15/2016 7:55:27 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032267237/333W
+7/15/2016 7:55:29 PM ==> "Your subscription request has been sent"
+7/15/2016 7:55:56 PM ==> http://www.mobilerush.com.ng/MNSWap/Index.aspx?phone=2347032267237&pID=23401220000012061&tID=dab41aaa-d029-41ef-8838-1804ecb0b5f9&ds=Daily real Crime stories from across the country - Powered By Crime Watch Newspaper. (N50/Weekly)
+7/15/2016 7:55:57 PM ==> 00000000
+7/15/2016 8:00:06 PM ==> Logging from 105.112.33.151................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/15/2016 8:11:38 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032267237/612W
+7/15/2016 8:11:39 PM ==> "Your subscription request has been sent"
+7/15/2016 8:14:44 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032267237/612K
+7/15/2016 8:14:46 PM ==> "Your subscription request has been sent"
+7/15/2016 8:37:53 PM ==> Logging from 197.210.173.85................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347032267237
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347032267237
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347032267237
+
+7/15/2016 8:37:56 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032267237/612W
+7/15/2016 8:38:03 PM ==> "Your subscription request has been sent"
+7/15/2016 8:45:18 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347032267237/612A
+7/15/2016 8:45:19 PM ==> "Your subscription request has been sent"
+7/15/2016 8:56:28 PM ==> http://callertunez.mtnonline.com/rbt/cpw?toneCode=1011219&merchantid=&from=wap
+7/15/2016 8:56:28 PM ==> http://callertunez.mtnonline.com/rbt/cpw?toneCode=1011219&merchantid=&from=wap
+7/15/2016 8:56:28 PM ==> OK
+7/15/2016 9:05:27 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=732&state=N&feedname=Learn%20french&plan=&prid=E2670&cnp=1&event=frenchda&be=frenchda&ba=ALTCRL
+7/15/2016 9:05:27 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=732&state=N&feedname=Learn%20french&plan=&prid=E2670&cnp=1&event=frenchda&be=frenchda&ba=ALTCRL
+7/15/2016 9:05:27 PM ==> OK
+7/15/2016 10:31:59 PM ==> Logging from 197.210.173.25................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+

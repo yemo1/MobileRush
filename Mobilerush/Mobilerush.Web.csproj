@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.1\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.1\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.2.1\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.2.1\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4D7868EF-06D8-4939-8091-4D1681222C74}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Mobilerush.Web</RootNamespace>
+    <AssemblyName>Mobilerush.Web</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <WebGreaseLibPath>..\packages\WebGrease.1.5.2\lib</WebGreaseLibPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Mobilerush.Domain, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Mobilerush.Domain.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.5.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.2.2.0\lib\net45-full\Ninject.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Ninject.Web.Common, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.Web.Common.3.2.3.0\lib\net45-full\Ninject.Web.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Ninject.Web.Mvc, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.MVC5.3.2.1.0\lib\net45-full\Ninject.Web.Mvc.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="WebActivatorEx, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7b26dc2a43f6a0d4, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebActivatorEx.2.1.0\lib\net40\WebActivatorEx.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WebGrease, Version=1.5.2.14234, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Web.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Deployment">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Webpages.Razor">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Webpages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Helpers">
+      <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Binders\Common\Index.asmx" />
+    <Content Include="Content\animate.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\colors\beige.css" />
+    <Content Include="Content\colors\blue.css" />
+    <Content Include="Content\colors\cyan.css" />
+    <Content Include="Content\colors\green.css" />
+    <Content Include="Content\colors\jade.css" />
+    <Content Include="Content\colors\orange.css" />
+    <Content Include="Content\colors\peach.css" />
+    <Content Include="Content\colors\pink.css" />
+    <Content Include="Content\colors\purple.css" />
+    <Content Include="Content\colors\red.css" />
+    <Content Include="Content\colors\sky-blue.css" />
+    <Content Include="Content\colors\yellow.css" />
+    <Content Include="Content\font-awesome.css" />
+    <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\images\1.png" />
+    <Content Include="Content\images\about-01.jpg" />
+    <Content Include="Content\images\about-02.jpg" />
+    <Content Include="Content\images\about-03.jpg" />
+    <Content Include="Content\images\author.png" />
+    <Content Include="Content\images\avatar.png" />
+    <Content Include="Content\images\blog-01.jpg" />
+    <Content Include="Content\images\blog-02.jpg" />
+    <Content Include="Content\images\blog-03.jpg" />
+    <Content Include="Content\images\blog-04.jpg" />
+    <Content Include="Content\images\blog-05.jpg" />
+    <Content Include="Content\images\blog-mini-01.jpg" />
+    <Content Include="Content\images\blog-mini-02.jpg" />
+    <Content Include="Content\images\blog-mini-03.jpg" />
+    <Content Include="Content\images\browser.png" />
+    <Content Include="Content\images\bussniss-pic.jpg" />
+    <Content Include="Content\images\c1.png" />
+    <Content Include="Content\images\c2.png" />
+    <Content Include="Content\images\c3.png" />
+    <Content Include="Content\images\c4.png" />
+    <Content Include="Content\images\c5.png" />
+    <Content Include="Content\images\c6.png" />
+    <Content Include="Content\images\c7.png" />
+    <Content Include="Content\images\c8.png" />
+    <Content Include="Content\images\christmas_bg.jpg" />
+    <Content Include="Content\images\favicon.ico" />
+    <Content Include="Content\images\favicon.png" />
+    <Content Include="Content\images\flickr-01.jpg" />
+    <Content Include="Content\images\flickr-02.jpg" />
+    <Content Include="Content\images\flickr-03.jpg" />
+    <Content Include="Content\images\flickr-04.jpg" />
+    <Content Include="Content\images\flickr-05.jpg" />
+    <Content Include="Content\images\flickr-06.jpg" />
+    <Content Include="Content\images\flickr-07.jpg" />
+    <Content Include="Content\images\flickr-08.jpg" />
+    <Content Include="Content\images\flickr-09.jpg" />
+    <Content Include="Content\images\footer-margo.png" />
+    <Content Include="Content\images\funmobile-logo-website1.png" />
+    <Content Include="Content\images\home %281%29.jpg" />
+    <Content Include="Content\images\map.png" />
+    <Content Include="Content\images\margo.png" />
+    <Content Include="Content\images\member-01.jpg" />
+    <Content Include="Content\images\member-02.jpg" />
+    <Content Include="Content\images\member-03.jpg" />
+    <Content Include="Content\images\member-04.jpg" />
+    <Content Include="Content\images\member01.jpg" />
+    <Content Include="Content\images\member02.jpg" />
+    <Content Include="Content\images\member03.jpg" />
+    <Content Include="Content\images\Mobile-Rush-Logo.png" />
+    <Content Include="Content\images\Mobile-Rush-LogoForSite-SMALL.fw.png" />
+    <Content Include="Content\images\Mobile-Rush-LogoForSite-SMALLER.fw.png" />
+    <Content Include="Content\images\Mobile-Rush-LogoForSite.jpg" />
+    <Content Include="Content\images\MobileRush-2.fw.png" />
+    <Content Include="Content\images\MobileRush-Logo.png" />
+    <Content Include="Content\images\MTN-logo1.jpg" />
+    <Content Include="Content\images\parallax\bg-01.jpg" />
+    <Content Include="Content\images\parallax\bg-02.jpg" />
+    <Content Include="Content\images\patterns\1.png" />
+    <Content Include="Content\images\patterns\10.png" />
+    <Content Include="Content\images\patterns\11.png" />
+    <Content Include="Content\images\patterns\12.png" />
+    <Content Include="Content\images\patterns\13.png" />
+    <Content Include="Content\images\patterns\14.png" />
+    <Content Include="Content\images\patterns\2.png" />
+    <Content Include="Content\images\patterns\3.png" />
+    <Content Include="Content\images\patterns\4.png" />
+    <Content Include="Content\images\patterns\5.png" />
+    <Content Include="Content\images\patterns\6.png" />
+    <Content Include="Content\images\patterns\7.png" />
+    <Content Include="Content\images\patterns\8.png" />
+    <Content Include="Content\images\patterns\9.png" />
+    <Content Include="Content\images\portfolio-01.jpg" />
+    <Content Include="Content\images\portfolio-02.jpg" />
+    <Content Include="Content\images\portfolio-03.jpg" />
+    <Content Include="Content\images\portfolio-04.jpg" />
+    <Content Include="Content\images\portfolio-05.jpg" />
+    <Content Include="Content\images\portfolio-06.jpg" />
+    <Content Include="Content\images\portfolio-07.jpg" />
+    <Content Include="Content\images\portfolio-08.jpg" />
+    <Content Include="Content\images\portfolio-09.jpg" />
+    <Content Include="Content\images\portfolio-1\1.png" />
+    <Content Include="Content\images\portfolio-1\10.png" />
+    <Content Include="Content\images\portfolio-1\11.png" />
+    <Content Include="Content\images\portfolio-1\12.png" />
+    <Content Include="Content\images\portfolio-1\2.png" />
+    <Content Include="Content\images\portfolio-1\3.png" />
+    <Content Include="Content\images\portfolio-1\4.png" />
+    <Content Include="Content\images\portfolio-1\5.png" />
+    <Content Include="Content\images\portfolio-1\6.png" />
+    <Content Include="Content\images\portfolio-1\7.png" />
+    <Content Include="Content\images\portfolio-1\8.png" />
+    <Content Include="Content\images\portfolio-1\9.png" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\1.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\2.fw.png" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\2.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\3.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\31500861_s.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\4.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\5.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\6.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\Bible.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\breakingnews3.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\Entertainment-News.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\maxresdefault.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\PaperTalk.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\Quran.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\stock-market-3.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Recommended\1.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Recommended\2.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Recommended\3.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Recommended\4.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Recommended\5.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Recommended\international-flags-700x455.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Recommended\Jobberman-Nigeria-Records-Over-500000-Hits-on-Mobile-App-Image.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Recommended\Learning_Arabic_calligraphy.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-Recommended\Smiling-Coupleres.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\040815-premierleague-big-dates.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\1.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\2.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\3.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\4.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\5.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\55.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\6.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\6029517-xsmall.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\dua_e_qunoot_31-800x600.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\h018QC20iWH-o_lifestyle3.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\Muslim.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\nigerian-artists-collage-890x642.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\o-MAN-PHONE-facebook.jpg" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\Telenor-Smart-Tunes-Codes-Islamic-Naats-Qawali-Noha.jpg" />
+    <Content Include="Content\images\portfolio-1\MTN-logo1.jpg" />
+    <Content Include="Content\images\portfolio-1\News-Lifestyle\1.fw.png" />
+    <Content Include="Content\images\portfolio-1\News-Lifestyle\1.jpg" />
+    <Content Include="Content\images\portfolio-1\News-Lifestyle\16069931_l.jpg" />
+    <Content Include="Content\images\portfolio-1\News-Lifestyle\2.jpg" />
+    <Content Include="Content\images\portfolio-1\News-Lifestyle\33519170_l.jpg" />
+    <Content Include="Content\images\portfolio-1\News-MEducation\1.jpg" />
+    <Content Include="Content\images\portfolio-1\News-MEducation\14185617_s.jpg" />
+    <Content Include="Content\images\portfolio-1\News-MEducation\2.jpg" />
+    <Content Include="Content\images\portfolio-1\News-MEducation\3.jpg" />
+    <Content Include="Content\images\portfolio-1\News-MEducation\4.jpg" />
+    <Content Include="Content\images\portfolio-1\News-MEducation\42172011_s.jpg" />
+    <Content Include="Content\images\portfolio-1\News-MEducation\47222173_s.jpg" />
+    <Content Include="Content\images\portfolio-1\News-MEducation\48592459_s.jpg" />
+    <Content Include="Content\images\portfolio-1\News-MEducation\5.jpg" />
+    <Content Include="Content\images\portfolio-1\News-MEducation\9875962_s.jpg" />
+    <Content Include="Content\images\portfolio-1\News-MHealth\1.jpg" />
+    <Content Include="Content\images\portfolio-1\News-MHealth\19475949_s.jpg" />
+    <Content Include="Content\images\portfolio-1\News-MHealth\2.jpg" />
+    <Content Include="Content\images\portfolio-1\News-MHealth\24507837_s.jpg" />
+    <Content Include="Content\images\portfolio-1\port-1.jpg" />
+    <Content Include="Content\images\portfolio-1\port-2.jpg" />
+    <Content Include="Content\images\portfolio-1\port-3.jpg" />
+    <Content Include="Content\images\portfolio-1\port-4.jpg" />
+    <Content Include="Content\images\portfolio-1\port-5.jpg" />
+    <Content Include="Content\images\portfolio-1\port-6.jpg" />
+    <Content Include="Content\images\portfolio-1\port-7.jpg" />
+    <Content Include="Content\images\portfolio-1\port-8.jpg" />
+    <Content Include="Content\images\portfolio-1\port-9.jpg" />
+    <Content Include="Content\images\portfolio-1\portfolio-img1.jpg" />
+    <Content Include="Content\images\portfolio-1\portfolio-img2.jpg" />
+    <Content Include="Content\images\portfolio-1\portfolio-img3.jpg" />
+    <Content Include="Content\images\portfolio-1\portfolio-img4.jpg" />
+    <Content Include="Content\images\portfolio-1\portfolio-img5.jpg" />
+    <Content Include="Content\images\portfolio-1\portfolio-img6.jpg" />
+    <Content Include="Content\images\portfolio-big-01.jpg" />
+    <Content Include="Content\images\portfolio-big-02.jpg" />
+    <Content Include="Content\images\portfolio-big-03.jpg" />
+    <Content Include="Content\images\portfolio\1.png" />
+    <Content Include="Content\images\portfolio\10.png" />
+    <Content Include="Content\images\portfolio\11.png" />
+    <Content Include="Content\images\portfolio\12.png" />
+    <Content Include="Content\images\portfolio\2.png" />
+    <Content Include="Content\images\portfolio\3.png" />
+    <Content Include="Content\images\portfolio\4.png" />
+    <Content Include="Content\images\portfolio\5.png" />
+    <Content Include="Content\images\portfolio\6.png" />
+    <Content Include="Content\images\portfolio\7.png" />
+    <Content Include="Content\images\portfolio\8.png" />
+    <Content Include="Content\images\portfolio\9.png" />
+    <Content Include="Content\images\portfolio\new\AS-Sirat.jpg" />
+    <Content Include="Content\images\portfolio\new\Ayat.jpg" />
+    <Content Include="Content\images\portfolio\new\BreakingNews.jpg" />
+    <Content Include="Content\images\portfolio\new\Bundesliga.jpg" />
+    <Content Include="Content\images\portfolio\new\BusinessNews.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Adura-isegun-Kunle-omo-alaafin-orun.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Championlove-tosin-martins.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Dua-Qunoot-Recitation.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Ekele-samsong.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\General-Purpose-Here-and-Hereafter.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\HosaanaaYoruba-EmmaohMagod.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\I-Chronicles-4_10-Recitation.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\ina-ran-Haruna-ishola.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Labbayk-Allahumma-Recitation.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Lamentations-3_22-Recitation.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Laylatul-Qadr-Dua.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Moonlight-highlife-victor-olaiya.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Oriki-Iwo-Francis-Nwanze.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Osowedi-chief-stephenosadebe.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\princess.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Psalm-61-Male-Voice-Recitation.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Psalm-91-Male-Voice-Recitation.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Qunoot-Recited-by-Sheikh-Sudais.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Shahada-Recited-by-Sheikh-Sudais.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Taxi-driver-bobby-benson.jpg" />
+    <Content Include="Content\images\portfolio\new\Callertunes\Treasure-A-million-tears.jpg" />
+    <Content Include="Content\images\portfolio\new\Celeb-Gist.jpg" />
+    <Content Include="Content\images\portfolio\new\Crime-Watch-Newspaper.jpg" />
+    <Content Include="Content\images\portfolio\new\Dua.jpg" />
+    <Content Include="Content\images\portfolio\new\EPL.jpg" />
+    <Content Include="Content\images\portfolio\new\EtiquetteTips.jpg" />
+    <Content Include="Content\images\portfolio\new\FashionTips.jpg" />
+    <Content Include="Content\images\portfolio\new\Funchat.jpg" />
+    <Content Include="Content\images\portfolio\new\FunVideos\Aproko-101.jpg" />
+    <Content Include="Content\images\portfolio\new\FunVideos\Area.jpg" />
+    <Content Include="Content\images\portfolio\new\FunVideos\Princess.jpg" />
+    <Content Include="Content\images\portfolio\new\FunVideos\Secrets.jpg" />
+    <Content Include="Content\images\portfolio\new\FX.jpg" />
+    <Content Include="Content\images\portfolio\new\Games\Gamezone.gif" />
+    <Content Include="Content\images\portfolio\new\Hadith.jpg" />
+    <Content Include="Content\images\portfolio\new\Health-Tips.jpg" />
+    <Content Include="Content\images\portfolio\new\Horoscope\Aquarius.jpg" />
+    <Content Include="Content\images\portfolio\new\Horoscope\Aries.jpg" />
+    <Content Include="Content\images\portfolio\new\Horoscope\Cancer.jpg" />
+    <Content Include="Content\images\portfolio\new\Horoscope\Capricorn.jpg" />
+    <Content Include="Content\images\portfolio\new\Horoscope\Gemini.jpg" />
+    <Content Include="Content\images\portfolio\new\Horoscope\Leo.jpg" />
+    <Content Include="Content\images\portfolio\new\Horoscope\Libra.jpg" />
+    <Content Include="Content\images\portfolio\new\Horoscope\Pisces.jpg" />
+    <Content Include="Content\images\portfolio\new\Horoscope\Sagittarius.jpg" />
+    <Content Include="Content\images\portfolio\new\Horoscope\Scorpio.jpg" />
+    <Content Include="Content\images\portfolio\new\Horoscope\Taurus.jpg" />
+    <Content Include="Content\images\portfolio\new\Horoscope\Virgo.jpg" />
+    <Content Include="Content\images\portfolio\new\Job-Alerts.jpg" />
+    <Content Include="Content\images\portfolio\new\LaLiga.jpg" />
+    <Content Include="Content\images\portfolio\new\LoveMessages.jpg" />
+    <Content Include="Content\images\portfolio\new\Nutrition.jpg" />
+    <Content Include="Content\images\portfolio\new\PopGossip.jpg" />
+    <Content Include="Content\images\portfolio\new\RelationshipTips.jpg" />
+    <Content Include="Content\images\portfolio\new\SerieA.jpg" />
+    <Content Include="Content\images\portfolio\new\Technology-News.jpg" />
+    <Content Include="Content\images\portfolio\new\VoiceChat.jpg" />
+    <Content Include="Content\images\portfolio\port-1.jpg" />
+    <Content Include="Content\images\portfolio\port-2.jpg" />
+    <Content Include="Content\images\portfolio\port-3.jpg" />
+    <Content Include="Content\images\portfolio\port-4.jpg" />
+    <Content Include="Content\images\portfolio\port-5.jpg" />
+    <Content Include="Content\images\portfolio\port-6.jpg" />
+    <Content Include="Content\images\portfolio\port-7.jpg" />
+    <Content Include="Content\images\portfolio\port-8.jpg" />
+    <Content Include="Content\images\portfolio\port-9.jpg" />
+    <Content Include="Content\images\portfolio\portfolio-img1.jpg" />
+    <Content Include="Content\images\portfolio\portfolio-img2.jpg" />
+    <Content Include="Content\images\portfolio\portfolio-img3.jpg" />
+    <Content Include="Content\images\portfolio\portfolio-img4.jpg" />
+    <Content Include="Content\images\portfolio\portfolio-img5.jpg" />
+    <Content Include="Content\images\portfolio\portfolio-img6.jpg" />
+    <Content Include="Content\images\poster.jpg" />
+    <Content Include="Content\images\service-01.jpg" />
+    <Content Include="Content\images\service-02.jpg" />
+    <Content Include="Content\images\service-03.jpg" />
+    <Content Include="Content\images\slide-01-bg.jpg" />
+    <Content Include="Content\images\slide-01-image-01.png" />
+    <Content Include="Content\images\slide-01-image-02.png" />
+    <Content Include="Content\images\slide-02-bg - Copy.jpg" />
+    <Content Include="Content\images\slide-02-bg--.jpg" />
+    <Content Include="Content\images\slide-02-bg.jpg" />
+    <Content Include="Content\images\slide-02-image-01.png" />
+    <Content Include="Content\images\slide-03-bg.jpg" />
+    <Content Include="Content\images\slide-03-image-01.png" />
+    <Content Include="Content\images\slide-03-image-02.png" />
+    <Content Include="Content\images\slider\bg1.jpg" />
+    <Content Include="Content\images\slider\bg2.jpg" />
+    <Content Include="Content\images\slider\bg3.jpg" />
+    <Content Include="Content\images\team\face_1.png" />
+    <Content Include="Content\images\team\face_2.png" />
+    <Content Include="Content\images\team\face_3.png" />
+    <Content Include="Content\images\team\face_4.png" />
+    <Content Include="Content\images\testimonials-bg.jpg" />
+    <Content Include="Content\images\testimonials-bg1.jpg" />
+    <Content Include="Content\images\venda-pic.png" />
+    <Content Include="Content\responsive.css" />
+    <Content Include="Content\slicknav.css" />
+    <Content Include="Content\style.css" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="GoPing.aspx" />
+    <Content Include="sample1.html" />
+    <Content Include="sample.html" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\contact.js" />
+    <Content Include="Scripts\count-to.js" />
+    <Content Include="Scripts\jquery-1.9.1.js" />
+    <Content Include="Scripts\jquery-2.1.4.min.js" />
+    <Content Include="Scripts\jquery-migrate-1.2.1.min.js" />
+    <Content Include="Scripts\jquery.appear.js" />
+    <Content Include="Scripts\jquery.easypiechart.js" />
+    <Content Include="Scripts\jquery.easypiechart.min.js" />
+    <Content Include="Scripts\jquery.fitvids.js" />
+    <Content Include="Scripts\jquery.isotope.js" />
+    <Content Include="Scripts\jquery.isotope.min.js" />
+    <Content Include="Scripts\jquery.lettering.js" />
+    <Content Include="Scripts\jquery.migrate.js" />
+    <Content Include="Scripts\jquery.nicescroll.js" />
+    <Content Include="Scripts\jquery.nicescroll.min.js" />
+    <Content Include="Scripts\jquery.parallax.js" />
+    <Content Include="Scripts\jquery.slicknav.js" />
+    <Content Include="Scripts\jquery.textillate.js" />
+    <Content Include="Scripts\mediaelement-and-player.js" />
+    <Content Include="Scripts\modernizrr.js" />
+    <Content Include="Scripts\nivo-lightbox.js" />
+    <Content Include="Scripts\nivo-lightbox.min.js" />
+    <Content Include="Scripts\owl.carousel.js" />
+    <Content Include="Scripts\owl.carousel.min.js" />
+    <Content Include="Scripts\script.js" />
+    <None Include="Properties\PublishProfiles\MobileRush.pubxml" />
+    <None Include="Service References\HTTPService\Index.disco" />
+    <None Include="Service References\HTTPService\configuration91.svcinfo" />
+    <None Include="Service References\HTTPService\configuration.svcinfo" />
+    <Content Include="Service References\HTTPService\Mobilerush.Web.HTTPService.MSISDN_HEADERResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Service References\HTTPService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\EPLDailyController.cs" />
+    <Compile Include="Controllers\GoalAlertController.cs" />
+    <Compile Include="Service References\App_Start\BundleConfig.cs" />
+    <Compile Include="Service References\App_Start\NinjectWebCommon.cs" />
+    <Compile Include="Service References\App_Start\RouteConfig.cs" />
+    <Compile Include="Binders\MSISDNModelBinder.cs" />
+    <Compile Include="Binders\Common\AppUtil.cs" />
+    <Compile Include="Binders\Common\Index.asmx.cs">
+      <DependentUpon>Index.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controllers\BreakingNewsController.cs" />
+    <Compile Include="Controllers\CallertuneController.cs" />
+    <Compile Include="Controllers\ChatController.cs" />
+    <Compile Include="Controllers\ChristmasController.cs" />
+    <Compile Include="Controllers\FootballController.cs" />
+    <Compile Include="Controllers\FunVideosController.cs" />
+    <Compile Include="Controllers\GamezoneController.cs" />
+    <Compile Include="Controllers\HeaderController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\IslamicController.cs" />
+    <Compile Include="Controllers\NavController.cs" />
+    <Compile Include="Controllers\NewsController.cs" />
+    <Compile Include="Controllers\IVRController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="GoPing.aspx.cs">
+      <DependentUpon>GoPing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GoPing.aspx.designer.cs">
+      <DependentUpon>GoPing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HtmlHelpers\RouteCollectionExtensions.cs" />
+    <Compile Include="HtmlHelpers\RouteWithExclusions.cs" />
+    <Compile Include="HttpHandler\WapHeader.cs" />
+    <Compile Include="Models\HeaderViewModel.cs" />
+    <Compile Include="Models\HomeViewModel.cs" />
+    <Compile Include="Models\MenuViewModel.cs" />
+    <Compile Include="Models\PageSectionViewModel.cs" />
+    <Compile Include="Models\SubMenuViewModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\HTTPService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\web.config" />
+    <Content Include="packages.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\_notes\1.jpg.mno" />
+    <Content Include="Content\images\portfolio-1\Home-Featured\_notes\3.jpg.mno" />
+    <Content Include="Content\images\portfolio-1\Home-TopTrending\_notes\1.jpg.mno" />
+    <Content Include="Content\images\portfolio-1\News-Lifestyle\_notes\1.jpg.mno" />
+    <Content Include="Content\images\_notes\MobileRush-Logo.png.mno" />
+    <Content Include="Views\Nav\Menu.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Callertune\Index.cshtml" />
+    <Content Include="Views\Football\Index.cshtml" />
+    <Content Include="Views\Islamic\Index.cshtml" />
+    <Content Include="Views\News\Index.cshtml" />
+    <Content Include="Views\FunVideos\Index.cshtml" />
+    <None Include="Service References\HTTPService\Index.wsdl" />
+    <Content Include="Views\Header\Fill.cshtml" />
+    <Content Include="Views\Christmas\Index.cshtml" />
+    <Content Include="Views\IVR\Index.cshtml" />
+    <Content Include="Views\Chat\Index.cshtml" />
+    <Content Include="Views\BreakingNews\Index.cshtml" />
+    <Content Include="Views\Gamezone\Index.cshtml" />
+    <Content Include="Views\GoalAlert\Index.cshtml" />
+    <Content Include="Views\EPLDaily\Index.cshtml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\HTTPService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChristmasData\ChristmasData.csproj">
+      <Project>{3454353f-c6fd-4863-9d94-df3d3bdac989}</Project>
+      <Name>ChristmasData</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>2454</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:2454/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.2.1\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.2.1\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.1\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.1\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

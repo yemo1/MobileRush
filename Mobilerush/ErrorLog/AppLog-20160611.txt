@@ -1,0 +1,72 @@
+6/11/2016 7:13:58 AM ==> Logging from 197.210.172.11................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348168842127
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348168842127
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348168842127
+
+6/11/2016 7:14:00 AM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348168842127/FUNWEEK
+6/11/2016 7:14:07 AM ==> "Your subscription request has been sent"
+6/11/2016 10:49:03 AM ==> Logging from 41.220.68.230................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348037972234
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348037972234
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348037972234
+
+6/11/2016 10:49:05 AM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348037972234/FUNWEEK
+6/11/2016 10:49:10 AM ==> "Your subscription request has been sent"
+6/11/2016 12:12:33 PM ==> Logging from 66.249.65.24................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/11/2016 1:28:02 PM ==> Logging from 197.210.173.80................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/11/2016 1:38:38 PM ==> Logging from 41.220.68.232................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/11/2016 3:15:23 PM ==> Logging from 197.210.226.49................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+6/11/2016 11:46:07 PM ==> Logging from 197.211.53.36................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348058949837
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348058949837
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348058949837
+
+6/11/2016 11:46:11 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348058949837/FUNWEEK
+6/11/2016 11:46:19 PM ==> "Your subscription request has been sent"
+6/11/2016 11:46:31 PM ==> Logging from 197.211.53.36................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348058949837
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348058949837
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348058949837
+
+6/11/2016 11:46:31 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348058949837/FUNWEEK
+6/11/2016 11:46:33 PM ==> "Your subscription request has been sent"

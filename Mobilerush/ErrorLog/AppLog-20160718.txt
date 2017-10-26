@@ -1,0 +1,99 @@
+7/18/2016 7:49:38 AM ==> Logging from 180.76.15.137................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/18/2016 8:07:18 AM ==> Logging from 197.210.172.97................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2347061317249
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2347061317249
+Header(X-MSISDN) = 
+Header(MSISDN) = 2347061317249
+
+7/18/2016 8:07:19 AM ==> http://www.mobilerush.com.ng/FMWap/Subs/2347061317249/FUNWEEK
+7/18/2016 8:07:24 AM ==> "Your subscription request has been sent"
+7/18/2016 2:06:26 PM ==> Logging from 180.76.15.7................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/18/2016 2:24:04 PM ==> Logging from 23.101.61.176................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/18/2016 3:59:19 PM ==> Logging from 104.209.188.207................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/18/2016 3:59:19 PM ==> System.IO.IOException: The process cannot access the file 'C:\inetpub\wwwroot\HeaderEnrichment\Mobilerush\ErrorLog\AppLog-20160718.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at Mobilerush.Web.Common.AppUtil.LogFileWrite(String message) in C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Funmobile\HeaderEnrichment\Mobilerush.Web\Common\AppUtil.cs:line 40
+   at Mobilerush.Web.Common.AppUtil.MSISDN_HEADER() in C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Funmobile\HeaderEnrichment\Mobilerush.Web\Common\AppUtil.cs:line 109
+7/18/2016 3:59:24 PM ==> Logging from 104.209.188.207................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/18/2016 3:59:24 PM ==> Logging from 104.209.188.207................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
+7/18/2016 4:00:49 PM ==> Logging from 41.220.68.131................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348168423222
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348168423222
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348168423222
+
+7/18/2016 4:00:49 PM ==> http://www.mobilerush.com.ng/MNSWap/Index.aspx?phone=2348168423222&pID=23401220000010380&tID=8a8e3d59-d0d2-48eb-82f7-c204f9757802&ds=Islamic Lifestyle Mobile Magazine Featuring Daily Prayers, Hadith & Quran Quote  (50/Week)
+7/18/2016 4:00:52 PM ==> 00000000
+7/18/2016 4:02:58 PM ==> http://callertunez.mtnonline.com/rbt/cpw?toneCode=1011024&merchantid=&from=wap
+7/18/2016 4:02:58 PM ==> http://callertunez.mtnonline.com/rbt/cpw?toneCode=1011024&merchantid=&from=wap
+7/18/2016 4:02:58 PM ==> OK
+7/18/2016 4:10:01 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+7/18/2016 4:10:01 PM ==> http://wap.mtnonlineplay.com/smart/popup.aspx?action=subprevdone&ctype=sub&ctrlid=73&id=120&state=N&feedname=&plan=&prid=E2687&cnp=14&event=funmobile&be=funmobile&ba=ALTCRL
+7/18/2016 4:10:01 PM ==> OK
+7/18/2016 7:36:44 PM ==> Logging from 41.220.68.133................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 2348167966959
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 2348167966959
+Header(X-MSISDN) = 
+Header(MSISDN) = 2348167966959
+
+7/18/2016 7:36:48 PM ==> http://www.mobilerush.com.ng/FMWap/Subs/2348167966959/FUNWEEK
+7/18/2016 7:36:54 PM ==> "Your subscription request has been sent"
+7/18/2016 9:29:00 PM ==> Logging from 197.210.224.97................
+HTTP_X-MSISDN = 
+HTTP_MSISDN = 
+HEADER_X-MSISDN = 
+HEADER_MSISDN = 
+Header(X-MSISDN) = 
+Header(MSISDN) = 
+
